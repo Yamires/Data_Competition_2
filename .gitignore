@@ -1,0 +1,22 @@
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+venv/
+.venv/
+Kaggle2/
+
+# ML / DL
+*.pth
+*.pt
+*.pkl
+checkpoints/
+
+# Data (optionnel mais conseillé)
+data_fold/
+*.csv
