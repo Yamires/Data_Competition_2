@@ -20,3 +20,4 @@ checkpoints/
 # Data (optionnel mais conseillé)
 data_fold/
 *.csv
+archive.zip
